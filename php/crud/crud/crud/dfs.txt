@@ -1,0 +1,9 @@
+7#Pedro
+3#Carlos
+10#Elena
+1#Juan
+8#Marta
+5#Luis
+2#María
+9#Jorge
+4#Ana

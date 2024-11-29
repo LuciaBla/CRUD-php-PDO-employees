@@ -1,0 +1,9 @@
+1.El primer cambio es que le he agregado un formato de estilos a todos los fomularios
+para que sean mas vistosos a la vista .
+
+2.El segundo combio es que el echo de insetar css me vi obigada a combiar un poco la 
+estrctura de los fomularios y de algun php.
+
+3.El Tercer cambio ya es un cambio de codigo en el php home que lo que hace es que lo 
+mueste en una tabla y que el orden en el que aparecen en la tabla sea ordenado por id
+ya que antes no aparecia por orden de insercion.
