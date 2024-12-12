@@ -1,0 +1,7 @@
+hola
+adios
+mala
+sol
+Largura: 16
+Largura: 27
+Largura: 38
